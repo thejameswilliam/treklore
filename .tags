@@ -1,0 +1,49 @@
+name	/Users/James/Dropbox/Sites/treklore/package.json	/^  "name": "treklore",$/;"	function	line:2
+version	/Users/James/Dropbox/Sites/treklore/package.json	/^  "version": "0.0.1",$/;"	function	line:3
+private	/Users/James/Dropbox/Sites/treklore/package.json	/^  "private": true,$/;"	function	line:4
+scripts	/Users/James/Dropbox/Sites/treklore/package.json	/^  "scripts": {$/;"	function	line:5
+start	/Users/James/Dropbox/Sites/treklore/package.json	/^    "start": "node .\/bin\/www"$/;"	function	line:6
+dependencies	/Users/James/Dropbox/Sites/treklore/package.json	/^  "dependencies": {$/;"	function	line:8
+bcrypt-nodejs	/Users/James/Dropbox/Sites/treklore/package.json	/^    "bcrypt-nodejs": "latest",$/;"	function	line:9
+body-parser	/Users/James/Dropbox/Sites/treklore/package.json	/^    "body-parser": "^1.16.1",$/;"	function	line:10
+connect-flash	/Users/James/Dropbox/Sites/treklore/package.json	/^    "connect-flash": "~0.1.1",$/;"	function	line:11
+cookie-parser	/Users/James/Dropbox/Sites/treklore/package.json	/^    "cookie-parser": "~1.4.3",$/;"	function	line:12
+debug	/Users/James/Dropbox/Sites/treklore/package.json	/^    "debug": "~2.6.0",$/;"	function	line:13
+express	/Users/James/Dropbox/Sites/treklore/package.json	/^    "express": "^4.14.0",$/;"	function	line:14
+express-session	/Users/James/Dropbox/Sites/treklore/package.json	/^    "express-session": "^1.15.1",$/;"	function	line:15
+hbs	/Users/James/Dropbox/Sites/treklore/package.json	/^    "hbs": "~4.0.1",$/;"	function	line:16
+method-override	/Users/James/Dropbox/Sites/treklore/package.json	/^    "method-override": "~1.0.0",$/;"	function	line:17
+mongodb	/Users/James/Dropbox/Sites/treklore/package.json	/^    "mongodb": "^2.2.24",$/;"	function	line:18
+mongoose	/Users/James/Dropbox/Sites/treklore/package.json	/^    "mongoose": "~3.8.1",$/;"	function	line:19
+morgan	/Users/James/Dropbox/Sites/treklore/package.json	/^    "morgan": "~1.7.0",$/;"	function	line:20
+multer	/Users/James/Dropbox/Sites/treklore/package.json	/^    "multer": "^1.3.0",$/;"	function	line:21
+passport	/Users/James/Dropbox/Sites/treklore/package.json	/^    "passport": "^0.3.2",$/;"	function	line:22
+passport-facebook	/Users/James/Dropbox/Sites/treklore/package.json	/^    "passport-facebook": "~1.0.2",$/;"	function	line:23
+passport-github	/Users/James/Dropbox/Sites/treklore/package.json	/^    "passport-github": "^1.1.0",$/;"	function	line:24
+passport-google	/Users/James/Dropbox/Sites/treklore/package.json	/^    "passport-google": "^0.3.0",$/;"	function	line:25
+passport-google-oauth	/Users/James/Dropbox/Sites/treklore/package.json	/^    "passport-google-oauth": "~0.1.5",$/;"	function	line:26
+passport-local	/Users/James/Dropbox/Sites/treklore/package.json	/^    "passport-local": "^0.1.6",$/;"	function	line:27
+passport-twitter	/Users/James/Dropbox/Sites/treklore/package.json	/^    "passport-twitter": "~1.0.2",$/;"	function	line:28
+pug	/Users/James/Dropbox/Sites/treklore/package.json	/^    "pug": "^2.0.0-beta11",$/;"	function	line:29
+serve-favicon	/Users/James/Dropbox/Sites/treklore/package.json	/^    "serve-favicon": "~2.3.2"$/;"	function	line:30
+description	/Users/James/Dropbox/Sites/treklore/package.json	/^  "description": "An outdoor adventure website.",$/;"	function	line:32
+main	/Users/James/Dropbox/Sites/treklore/package.json	/^  "main": "app.js",$/;"	function	line:33
+devDependencies	/Users/James/Dropbox/Sites/treklore/package.json	/^  "devDependencies": {$/;"	function	line:34
+nodemon	/Users/James/Dropbox/Sites/treklore/package.json	/^    "nodemon": "^1.11.0",$/;"	function	line:35
+grunt	/Users/James/Dropbox/Sites/treklore/package.json	/^    "grunt": "",$/;"	function	line:36
+grunt-contrib-less	/Users/James/Dropbox/Sites/treklore/package.json	/^    "grunt-contrib-less": "",$/;"	function	line:37
+grunt-contrib-watch	/Users/James/Dropbox/Sites/treklore/package.json	/^    "grunt-contrib-watch": "",$/;"	function	line:38
+grunt-newer	/Users/James/Dropbox/Sites/treklore/package.json	/^    "grunt-newer": "",$/;"	function	line:39
+matchdep	/Users/James/Dropbox/Sites/treklore/package.json	/^    "matchdep": ""$/;"	function	line:40
+repository	/Users/James/Dropbox/Sites/treklore/package.json	/^  "repository": {$/;"	function	line:42
+type	/Users/James/Dropbox/Sites/treklore/package.json	/^    "type": "git",$/;"	function	line:43
+url	/Users/James/Dropbox/Sites/treklore/package.json	/^    "url": "git+ssh:\/\/git@github.com\/thejameswilliam\/treklore.git"$/;"	function	line:44
+keywords	/Users/James/Dropbox/Sites/treklore/package.json	/^  "keywords": [$/;"	function	line:46
+author	/Users/James/Dropbox/Sites/treklore/package.json	/^  "author": "James W. Johnson",$/;"	function	line:56
+license	/Users/James/Dropbox/Sites/treklore/package.json	/^  "license": "ISC",$/;"	function	line:57
+bugs	/Users/James/Dropbox/Sites/treklore/package.json	/^  "bugs": {$/;"	function	line:58
+url	/Users/James/Dropbox/Sites/treklore/package.json	/^    "url": "https:\/\/github.com\/thejameswilliam\/treklore\/issues"$/;"	function	line:59
+homepage	/Users/James/Dropbox/Sites/treklore/package.json	/^  "homepage": "https:\/\/github.com\/thejameswilliam\/treklore#readme"$/;"	function	line:61
+passport	/Users/James/Dropbox/Sites/treklore/server.js	/^var passport = require('passport');$/;"	variable	line:10
+ObjectId	/Users/James/Dropbox/Sites/treklore/server.js	/^var ObjectId = require('mongodb').ObjectID;$/;"	variable	line:11
+del	/Users/James/Dropbox/Sites/treklore/public/main.js	/^var del = document.getElementsByClassName('quote')$/;"	variable	line:1

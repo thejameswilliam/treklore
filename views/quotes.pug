@@ -1,0 +1,23 @@
+block content
+  section.col-sm-6.col-sm-offset-3
+    .row
+      .col-sm-12
+        h1.title= title
+    .row
+      div.col-sm-12
+        #form
+          form(method='POST' action='/quotes')
+            div.form-group
+              label.col-form-label(for="name") Email
+              input.form-control(type="text" placeholder="Name" name="name")
+            div.form-group
+              label.col-form-label(for="quote") Quote
+              input.form-control(type="text" placeholder="Quote" name="quote")
+            button.btn.btn-primary.pull-right(type="submit") Submit
+    hr
+    .row
+      #quotes.col-sm-12
+        - del
+        ul.list-group
+          each item in quotes
+            li(id=item._id).list-group-item.quote Name: #{item.name} | Quote: #{item.quote}
